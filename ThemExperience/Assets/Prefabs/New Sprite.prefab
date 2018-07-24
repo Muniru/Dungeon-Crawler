@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1447422754096970}
+  m_IsPrefabParent: 1
+--- !u!1 &1447422754096970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4961216029099886}
+  - component: {fileID: 114607575563856126}
+  m_Layer: 5
+  m_Name: New Sprite
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4961216029099886
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1447422754096970}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.109206, y: -2.0462859, z: 0}
+  m_LocalScale: {x: 7.5, y: 7.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114607575563856126
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1447422754096970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79952ada30bb7824b92b3680f3145cfc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomU: {fileID: 1873068885638858, guid: 2b9efe36a684c3948b705ba61f0027ff, type: 2}
+  roomD: {fileID: 1411947520157570, guid: 8d38296614d9ca342a42fb0b9b6a4691, type: 2}
+  roomR: {fileID: 1480792196430748, guid: 54d000ecbd1705d468305785003bfc4b, type: 2}
+  roomL: {fileID: 1042003653880754, guid: 32aa1d5a671c25d46a29e6f13c8929c2, type: 2}
+  roomUD: {fileID: 1603703016518832, guid: 6a5d72fdab821104bb50fcc6bf76e418, type: 2}
+  roomRL: {fileID: 1002068951384590, guid: 45f0571d129c52a44a5a7037523951d7, type: 2}
+  roomUR: {fileID: 1981751554514730, guid: 4483ac5ec6a4e8447af30e8ac73cfa7b, type: 2}
+  roomUL: {fileID: 1799264882249858, guid: ddef60bb8df8ac049a163ea3d15d6e0d, type: 2}
+  roomDR: {fileID: 1089885442517910, guid: 713aedaf0609ba041a22b80e277c27d5, type: 2}
+  roomDL: {fileID: 1182409911004866, guid: 82c1e4b0253b4ac4895eb31dc30b0b4d, type: 2}
+  roomUDL: {fileID: 1819311753330326, guid: 36767dfbdb99cd6488a47c7dd268e160, type: 2}
+  roomURL: {fileID: 1166605243150226, guid: 4c2ad0a8a0b221c40ae85f42aeaf8385, type: 2}
+  roomUDR: {fileID: 1391965178780756, guid: 312617f75bed09843a5d449a05f4d4fc, type: 2}
+  roomDRL: {fileID: 1862473312649768, guid: 63a5f75037205034cad6c0206379ac4d, type: 2}
+  roomUDRL: {fileID: 1575496852771154, guid: a4484e72cc632b243bc8b3d01c0cdd51, type: 2}
+  up: 0
+  down: 0
+  left: 0
+  right: 0
+  type: 0
+  pos: {x: 0, y: 0}
+  room: {fileID: 0}

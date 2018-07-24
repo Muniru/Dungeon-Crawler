@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 79952ada30bb7824b92b3680f3145cfc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorU: {fileID: 21300004, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorD: {fileID: 21300050, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorR: {fileID: 21300036, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorL: {fileID: 21300048, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorUD: {fileID: 21300044, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorRL: {fileID: 21300006, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorUR: {fileID: 21300038, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorUL: {fileID: 21300040, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorDR: {fileID: 21300024, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorDL: {fileID: 21300026, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorUDL: {fileID: 21300022, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorURL: {fileID: 21300034, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorUDR: {fileID: 21300008, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorDRL: {fileID: 21300046, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - doorUDRL: {fileID: 21300000, guid: 3257cf056b814e84780350ed994d07fd, type: 3}
+  - roomU: {fileID: 1873068885638858, guid: 2b9efe36a684c3948b705ba61f0027ff, type: 2}
+  - roomD: {fileID: 1411947520157570, guid: 8d38296614d9ca342a42fb0b9b6a4691, type: 2}
+  - roomR: {fileID: 1480792196430748, guid: 54d000ecbd1705d468305785003bfc4b, type: 2}
+  - roomL: {fileID: 1042003653880754, guid: 32aa1d5a671c25d46a29e6f13c8929c2, type: 2}
+  - roomUD: {fileID: 1603703016518832, guid: 6a5d72fdab821104bb50fcc6bf76e418, type: 2}
+  - roomRL: {fileID: 1002068951384590, guid: 45f0571d129c52a44a5a7037523951d7, type: 2}
+  - roomUR: {fileID: 1981751554514730, guid: 4483ac5ec6a4e8447af30e8ac73cfa7b, type: 2}
+  - roomUL: {fileID: 1799264882249858, guid: ddef60bb8df8ac049a163ea3d15d6e0d, type: 2}
+  - roomDR: {fileID: 1089885442517910, guid: 713aedaf0609ba041a22b80e277c27d5, type: 2}
+  - roomDL: {fileID: 1182409911004866, guid: 82c1e4b0253b4ac4895eb31dc30b0b4d, type: 2}
+  - roomUDL: {fileID: 1819311753330326, guid: 36767dfbdb99cd6488a47c7dd268e160, type: 2}
+  - roomURL: {fileID: 1166605243150226, guid: 4c2ad0a8a0b221c40ae85f42aeaf8385, type: 2}
+  - roomUDR: {fileID: 1391965178780756, guid: 312617f75bed09843a5d449a05f4d4fc, type: 2}
+  - roomDRL: {fileID: 1862473312649768, guid: 63a5f75037205034cad6c0206379ac4d, type: 2}
+  - roomUDRL: {fileID: 1575496852771154, guid: a4484e72cc632b243bc8b3d01c0cdd51, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
